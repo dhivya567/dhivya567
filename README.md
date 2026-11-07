@@ -84,9 +84,9 @@ A visual workspace application that allows users to create, organize, and connec
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhivya567&show_icons=true&hide_border=true&theme=transparent)
+![Contribution Graph](https://ghchart.rshah.org/dhivya567)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhivya567&layout=compact&hide_border=true&theme=transparent)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhivya567&theme=transparent&hide_border=true)
 
 ---
 
@@ -94,7 +94,7 @@ A visual workspace application that allows users to create, organize, and connec
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhivya567)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srdhivyaramasamy2003@gmail.com@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srdhivyaramasamy2003@gmail.com)
 
 ---
 
