@@ -80,38 +80,6 @@ A visual workspace application that allows users to create, organize, and connec
 - Backend API integration
 
 **Technologies:** React, Node.js, Express.js
-
-**Repository:** [View Project](https://github.com/dhivya567/wcrpd-backend)
-
----
-
-### 3. Hotel Management System
-
-A hotel management application designed to handle hotel booking and management workflows.
-
-**Key Features**
-- Hotel management functionality
-- Booking workflows
-- Application management
-
-**Repository:** [View Project](https://github.com/dhivya567/hotel_management_project1)
-
----
-
-### 4. Perfume E-commerce Website
-
-A responsive e-commerce website focused on product presentation, product browsing, and shopping experiences.
-
-**Key Features**
-- Product browsing
-- Responsive user interface
-- Shopping-related workflows
-- Interactive frontend components
-
-**Technologies:** HTML5, CSS3, JavaScript
-
-**Repository:** [View Project](https://github.com/dhivya567/Perfume)
-
 ---
 
 ## GitHub Activity
@@ -126,7 +94,7 @@ A responsive e-commerce website focused on product presentation, product browsin
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhivya567)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srdhivyaramasamy2003@gmail.com@example.com)
 
 ---
 
