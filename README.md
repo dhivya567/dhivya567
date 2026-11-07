@@ -80,13 +80,13 @@ A visual workspace application that allows users to create, organize, and connec
 - Backend API integration
 
 **Technologies:** React, Node.js, Express.js
+
 ---
 
 ## GitHub Activity
 
 ![Contribution Graph](https://ghchart.rshah.org/dhivya567)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=dhivya567&theme=transparent&hide_border=true)
 ---
 
 ## Connect With Me
